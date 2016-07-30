@@ -15,7 +15,9 @@
   "author": "Blake Johnston",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.12.4"
+    "express": "^4.12.4",
+    "socket.io": "^1.4.8",
+    "yahoo-finance": "^0.2.12"
   },
   "devDependencies": {
     "xo": "^0.16.0"

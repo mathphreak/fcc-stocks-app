@@ -34,11 +34,6 @@ p {
 	margin: 8px 0 0 0;
 }
 
-.container p {
-	text-align: center;
-	padding: 0;
-}
-
 /****** Header Styling ******/
 
 header p {
@@ -201,4 +196,24 @@ span {
 	color: #FFFFFF;
 	display: inline;
 	margin: 0;
+}
+
+/* Misc */
+
+.chart path {
+  fill: none;
+  stroke-width: 2px;
+}
+
+h1 small {
+  font-size: 50%;
+}
+
+#stock-list li {
+  position: relative;
+}
+
+button.remove {
+  position: absolute;
+  left: -2em;
 }

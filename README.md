@@ -1,3 +1,3 @@
-# fcc-
+# fcc-stocks-app
 
-It's the **** app from FreeCodeCamp. Based on clementine.js
+It's the stocks app from FreeCodeCamp. Based on clementine.js

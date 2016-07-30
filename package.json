@@ -1,12 +1,12 @@
 {
-  "name": "@mathphreak/fcc-voting-app",
+  "name": "@mathphreak/fcc-stocks-app",
   "version": "0.0.0",
   "private": true,
-  "description": "A voting app for FreeCodeCamp",
+  "description": "A stocks app for FreeCodeCamp",
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mathphreak/fcc-voting-app"
+    "url": "git+https://github.com/mathphreak/fcc-stocks-app"
   },
   "scripts": {
     "start": "node server.js",
@@ -15,12 +15,7 @@
   "author": "Blake Johnston",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^1.2.0",
-    "express": "^4.12.4",
-    "express-session": "^1.11.3",
-    "mongoose": "^4.1.0",
-    "passport": "^0.3.0",
-    "passport-github": "^1.0.0"
+    "express": "^4.12.4"
   },
   "devDependencies": {
     "xo": "^0.16.0"
